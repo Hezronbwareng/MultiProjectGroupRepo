@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUG0Sl2LHo4B8w0/FaVbldk8QMsov1hC3C+rFj91Hs3yDm/zmX8OxFjJuwtjAcmo1LzC4H5ClrJe+np7NyABvA==",
+  "success": true,
+  "projectFilePath": "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/hezron/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/hezron/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/hezron/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

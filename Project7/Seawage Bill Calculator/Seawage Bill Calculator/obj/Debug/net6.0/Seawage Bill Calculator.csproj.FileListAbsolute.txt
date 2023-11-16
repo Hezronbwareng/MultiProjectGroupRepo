@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\bin\Debug\net6.0\Seawage Bill Calculator.exe
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\bin\Debug\net6.0\Seawage Bill Calculator.deps.json
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\bin\Debug\net6.0\Seawage Bill Calculator.runtimeconfig.json
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\bin\Debug\net6.0\Seawage Bill Calculator.dll
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\bin\Debug\net6.0\Seawage Bill Calculator.pdb
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.dll
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\refint\Seawage Bill Calculator.dll
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.pdb
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\Seawage Bill Calculator.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\Seawage Bill Calculator\Seawage Bill Calculator\obj\Debug\net6.0\ref\Seawage Bill Calculator.dll

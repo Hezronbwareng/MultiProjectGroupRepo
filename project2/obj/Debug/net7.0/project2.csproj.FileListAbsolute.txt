@@ -1,0 +1,14 @@
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\bin\Debug\net7.0\project2.exe
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\bin\Debug\net7.0\project2.deps.json
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\bin\Debug\net7.0\project2.runtimeconfig.json
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\bin\Debug\net7.0\project2.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\bin\Debug\net7.0\project2.pdb
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.AssemblyInfoInputs.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.AssemblyInfo.cs
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\refint\project2.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.pdb
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\project2.genruntimeconfig.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project2\obj\Debug\net7.0\ref\project2.dll

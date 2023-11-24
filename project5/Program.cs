@@ -5,28 +5,29 @@ class PowerBillCalculator
     static void Main()
     {
         Console.WriteLine("Welcome to the Power Bill Calculator!");
+        Console.WriteLine("We are glad to have you use our software");
 
         try
         {
-            // Get user input for power consumption
+            // POWER CONSUMPTION USER INPUT
             Console.Write("Enter your power consumption in KWh: ");
             double powerConsumption = Convert.ToDouble(Console.ReadLine());
 
-            // Get user input for usage type
+            // USER INPUT FOR USAGE TYPE
             Console.Write("Enter your usage type (residential, commercial, or industrial): ");
             string usageType = Console.ReadLine().ToLower(); // Convert to lowercase for case-insensitive comparison
 
-            // Validate usage type
+            // VALIDATING USAGE TYPE
             if (usageType != "residential" && usageType != "commercial" && usageType != "industrial")
             {
                 throw new ArgumentException("Invalid usage type. Please choose residential, commercial, or industrial.");
             }
 
-            // Calculate the power bill
+            // CALCULATING POWER BILL
             double tariffRate = GetTariffRate(usageType);
             double powerBill = CalculatePowerBill(powerConsumption, tariffRate);
 
-            // Display the result with a breakdown
+            // DISPLAY THE RESULT
             Console.WriteLine($"\nYour monthly power bill breakdown:");
             Console.WriteLine($"Power Consumption: {powerConsumption} KWh");
             Console.WriteLine($"Tariff Rate: ${tariffRate:F2} per KWh");
@@ -48,7 +49,7 @@ class PowerBillCalculator
 
     static double GetTariffRate(string usageType)
     {
-        // Define the tariff rates
+        // TARIFF RATES
         switch (usageType)
         {
             case "residential":

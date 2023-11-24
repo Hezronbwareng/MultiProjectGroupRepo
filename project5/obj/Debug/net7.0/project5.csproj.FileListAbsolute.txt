@@ -1,0 +1,14 @@
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\bin\Debug\net7.0\project5.exe
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\bin\Debug\net7.0\project5.deps.json
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\bin\Debug\net7.0\project5.runtimeconfig.json
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\bin\Debug\net7.0\project5.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\bin\Debug\net7.0\project5.pdb
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.AssemblyInfoInputs.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.AssemblyInfo.cs
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.csproj.CoreCompileInputs.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\refint\project5.dll
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.pdb
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\project5.genruntimeconfig.cache
+C:\Users\Peter Ndindi Mbuthia\Desktop\powerBill\MultiProjectGroupRepo\project5\obj\Debug\net7.0\ref\project5.dll

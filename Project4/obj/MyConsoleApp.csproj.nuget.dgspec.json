@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/MyConsoleApp.csproj": {}
+    "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/MyConsoleApp.csproj": {
+    "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/MyConsoleApp.csproj",
-        "packagesPath": "/home/hezron/.nuget/packages/",
-        "outputPath": "/home/hezron/Desktop/MultiProjectGroupRepo/Project4/obj/",
+        "projectPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Peter Ndindi Mbuthia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/hezron/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Peter Ndindi Mbuthia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -51,15 +51,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.8, 6.0.8]"
+              "version": "[6.0.24, 6.0.24]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.8, 6.0.8]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.24, 6.0.24]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.8, 6.0.8]"
+              "version": "[6.0.24, 6.0.24]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.24, 6.0.24]"
             }
           ],
           "frameworkReferences": {
@@ -67,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

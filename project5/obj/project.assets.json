@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Peter Ndindi Mbuthia\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj",
-      "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\project5\\project5.csproj",
+      "projectName": "project5",
+      "projectPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\project5\\project5.csproj",
       "packagesPath": "C:\\Users\\Peter Ndindi Mbuthia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\Project4\\obj\\",
+      "outputPath": "C:\\Users\\Peter Ndindi Mbuthia\\Desktop\\powerBill\\MultiProjectGroupRepo\\project5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Peter Ndindi Mbuthia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -54,24 +54,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.24, 6.0.24]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.24, 6.0.24]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.24, 6.0.24]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.24, 6.0.24]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

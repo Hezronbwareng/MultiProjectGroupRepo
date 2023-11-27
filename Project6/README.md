@@ -3,7 +3,7 @@ The Water Billing Calculator is a command-line application developed in C# that 
 
 Getting Started
 Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
-Navigate to the Project Directory: cd Project6
+Navigate to the Project Directory: cd MultiProjectGroupRepo/Project4
 Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
 Usage
 Upon running the program, users are prompted to specify their usage type from the following options:

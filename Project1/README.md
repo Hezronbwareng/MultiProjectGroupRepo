@@ -1,10 +1,10 @@
-Simple Calculator
+ Calculator
 This is a command-line-based calculator application developed in C# that performs basic arithmetic operations such as addition, subtraction, multiplication, division, and square root.
 
 Getting Started
 To run this application, follow these steps:
 
-Clone the Repository: git clone https://github.com/yourusername/simple-calculator.git
+Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
 Navigate to the Project Directory: cd Project1
 Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
 Usage

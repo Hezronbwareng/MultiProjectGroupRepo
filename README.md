@@ -26,11 +26,17 @@ Readme: Sewerage Bill Calculator
 
 Repository Structure
 /Project1: Folder for Calculator Application
+
 /Project2: Folder for Bank Account Management System
+
 /Project3: Folder for Currency Converter
+
 /Project4: Folder for PAYE Application
+
 /Project5: Folder for Power Bill Calculator
+
 /Project6: Folder for Water Bill Calculator
+
 /Project7: Folder for Sewerage Bill Calculator
 
 Contributing

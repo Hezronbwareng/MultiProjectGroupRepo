@@ -2,7 +2,7 @@ Water Billing Calculator
 The Water Billing Calculator is a command-line application developed in C# that helps calculate water bills based on different usage types: Residential, Commercial, and Industrial. It also allows users to check the water rates for each usage type.
 
 Getting Started
-Clone the Repository: git clone https://github.com/yourusername/WaterBillingCalculator.git
+Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
 Navigate to the Project Directory: cd Project6
 Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
 Usage

@@ -1,33 +1,36 @@
 Currency Converter
-The Currency Converter is a C# program that allows users to convert currency amounts between different currencies. It supports conversions between Euros (EUR), Kenyan Shillings (KSHS), United States Dollars (USD), and Dirhams (DIR) based on predefined exchange rates.
+The Currency Converter is a command-line application developed in C# that allows users to convert currency amounts between Euros (EUR), Kenyan Shillings (KSHS), United States Dollars (USD), and Dirhams (DIR) based on predefined exchange rates.
 
-Table of Contents
-Overview
-Features
+Getting Started
+Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
+Navigate to the Project Directory: cd MultiProjectGroupRepo/Project3
+Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
 Usage
-Running the Program
-Sample Output
-Overview
-The program provides a simple interface for users to enter an amount in a selected currency and then choose the desired currency conversion. It utilizes predefined exchange rates to perform the currency conversions.
+Upon running the program, users will be prompted to enter the amount they want to convert and select the currency conversion type from a list of options. Here are the available conversion choices:
+
+Euros to Kenyan Shillings (EURTOKSHS)
+Euros to United States Dollars (EURTOUSD)
+Kenyan Shillings to Euros (KSHSTOEUR)
+Kenyan Shillings to United States Dollars (KSHSTOUSD)
+United States Dollars to Euros (USDTOEUR)
+United States Dollars to Kenyan Shillings (USDTOKSHS)
+Dirhams to United States Dollars (DIRTOUSD)
+Dirhams to Kenyan Shillings (DIRTOKSHS)
+Dirhams to Euros (DIRTOEURO)
+Euros to Dirhams (EURTODIR)
+Kenyan Shillings to Dirhams (KSHSTODIR)
+United States Dollars to Dirhams (USDTODIR)
+The application will display the converted amount based on the chosen currency conversion.
 
 Features
-Multiple Currency Conversions: Supports conversions between Euros, Kenyan Shillings, US Dollars, and Dirhams.
-Interactive Interface: Guides users through the conversion process, prompting for input and displaying the converted amounts.
-Usage
-Start the Program:
-Run the program in an environment that supports C# (e.g., Visual Studio, Visual Studio Code with appropriate C# extensions).
+Converts between four different currencies using predefined exchange rates.
+Handles input validation for the amount to be converted and displays error messages for invalid inputs.
+Contributing
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please create an issue or open a pull request on GitHub.
 
-Follow the Instructions:
+License
+This project is licensed under the MIT License.
 
-Upon execution, the program provides a list of currencies available for conversion.
-Enter the amount you want to convert.
-Select the desired currency conversion by entering the corresponding choice (e.g., EURTOKSHS, USDTOEUR).
-Continue or Exit:
+Acknowledgements
+Special thanks to contributors and developers who have helped in creating and maintaining this project.
 
-After each conversion, the program prompts if you want to continue converting.
-Type 'Y' to continue or 'N' to exit the program.
-Running the Program
-To run the program:
-
-Open the program file (Program.cs) in a C# environment (e.g., Visual Studio, Visual Studio Code).
-Compile and execute the program.

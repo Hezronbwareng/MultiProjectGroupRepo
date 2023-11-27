@@ -5,7 +5,7 @@ Getting Started
 To run this application, follow these steps:
 
 Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
-Navigate to the Project Directory: cd Project1
+Navigate to the Project Directory: cd MultiProjectGroupRepo/Project1
 Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
 Usage
 Upon launching the program, you'll be presented with a menu displaying various operations that you can perform:

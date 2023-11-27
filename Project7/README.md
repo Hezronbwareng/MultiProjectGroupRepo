@@ -9,6 +9,11 @@ The Sewage Bill Calculator is a C# console application designed to assist users 
 Project Structure
 The project consists of a C# console application with a SewageBillCalculator class.
 
+Getting Started
+Clone the Repository: git clone https://github.com/Hezronbwareng/MultiProjectGroupRepo.git
+Navigate to the Project Directory: cd Project7
+Compile and Run: Use an IDE like Visual Studio or compile and run the Program.cs file.
+
 SewageBillCalculator Class
 The SewageBillCalculator class houses methods for input validation, handling user inputs, and calculating sewage bills based on predefined rates.
 

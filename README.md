@@ -23,14 +23,16 @@ Readme: Water Bill Calculator
 7. Sewerage Bill Calculator
 Description: Computes monthly sewerage bills considering water consumption and rate structures.
 Readme: Sewerage Bill Calculator
+
 Repository Structure
-/CalculatorApp: Folder for Calculator Application
-/BankAccountSystem: Folder for Bank Account Management System
-/CurrencyConverter: Folder for Currency Converter
-/PAYEApplication: Folder for PAYE Application
-/PowerBillCalculator: Folder for Power Bill Calculator
-/WaterBillCalculator: Folder for Water Bill Calculator
-/SewerageBillCalculator: Folder for Sewerage Bill Calculator
+/Project1: Folder for Calculator Application
+/Project2: Folder for Bank Account Management System
+/Project3: Folder for Currency Converter
+/Project4: Folder for PAYE Application
+/Project5: Folder for Power Bill Calculator
+/Project6: Folder for Water Bill Calculator
+/Project7: Folder for Sewerage Bill Calculator
+
 Contributing
 Contributions and improvements to any of these projects are welcome! Refer to individual project READMEs for contribution guidelines.
 
